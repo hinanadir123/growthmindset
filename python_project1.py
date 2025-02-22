@@ -1,8 +1,8 @@
 import streamlit as st
 
 
-st.markdown("<h1 style='color: #FF5733;'>Growth Mindset Challenge</h1>", unsafe_allow_html=True)
-st.markdown("<h3 style='color: #33CFFF;'>Welcome to my Growth Journey</h3>", unsafe_allow_html=True)
+st.markdown("<h1 style='color: #FF5733;'>GROWTH MINDSET CHALLENGE</h1>", unsafe_allow_html=True)
+st.markdown("<h3 style='color: #33CFFF;'>WELLCOME TO MY GROWTH JOURNEY!</h3>", unsafe_allow_html=True)
 # st.set_page_config(page_title= "Growth MindSEt Project" )
 # st.title("Growth Mindset challenge : web app with streamlit")
 
@@ -33,7 +33,7 @@ else:
 
 
 #Achievments
-st.header("celebrate Your Wins!")
+st.header("Celebrate Your Wins!")
 acheivment = st.text_input("Share something You have recently accomplished:")
 
 if acheivment:
@@ -44,5 +44,5 @@ else:
 #footer
 st.write("_ _ _")
 st.write("You Are DOing Amazing ! Every Step ")
-st.write("Created by HIna mughal")
+st.write("C HINA NADIR MUGHAL")
  
