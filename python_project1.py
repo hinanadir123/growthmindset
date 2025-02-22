@@ -44,5 +44,5 @@ else:
 #footer
 st.write("_ _ _")
 st.write("You Are DOing Amazing ! Every Step ")
-st.write("C HINA NADIR MUGHAL")
+st.write("CREATED BY: HINA NADIR MUGHAL")
  
