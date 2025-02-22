@@ -1,8 +1,10 @@
 import streamlit as st
 
 
-st.set_page_config(page_title= "Growth MindSEt Project" )
-st.title("Growth Mindset challenge : web app with streamlit")
+st.markdown("<h1 style='color: #FF5733;'>Growth Mindset Challenge</h1>", unsafe_allow_html=True)
+st.markdown("<h3 style='color: #33CFFF;'>Welcome to my Growth Journey</h3>", unsafe_allow_html=True)
+# st.set_page_config(page_title= "Growth MindSEt Project" )
+# st.title("Growth Mindset challenge : web app with streamlit")
 
 st.header("welcom to my Growth journey")
 st.write("Embrace Challenge, Learn from Mistake, and unlock your full potential. This AI-Powered app help you more: ")
